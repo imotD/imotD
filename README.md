@@ -1,4 +1,4 @@
-### Welcome to my Lab :laughing: 👋
+### :laughing: 👋
 
 <!--
 **dottomCode/dottomCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
