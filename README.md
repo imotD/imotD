@@ -1,3 +1,1 @@
-### :laughing: 👋
-
-ImotD adalah nama hasil karya rekan kerja Ronal Alfendro yang diadaptasi kerena maraknya nama yang sama. Nama fiksi yang akhirnya dijadikan nickname untuk urusan dengan dunia Tech. ImotD , seorang Web Designer yang bercita-cita menjadi Frontend Developer ~amin. Kisah ini berawal dari mulainya mendaftarkan github pada Desember 2018.
+Hi! 🙏🤪 👋  **ImotD** adalah nama hasil karya rekan kerja Ronal Alfendro yang diadaptasi kerena maraknya nama yang seragam. Nama fiksi ini yang akhirnya dijadikan nickname untuk urusan dengan dunia Tech. ImotD , seorang Web Designer yang bercita-cita menjadi **Frontend Developer** 🙏 ~amin. Kisah ini berawal dari mulainya mendaftarkan github pada Desember 2018. [Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)
