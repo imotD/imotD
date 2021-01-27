@@ -1,1 +1,5 @@
-Hi! 🙏🤪 👋  **ImotD** adalah nama hasil karya rekan kerja _Ronal Alfendro_ yang diadaptasi kerena maraknya nama yang seragam. Nama fiksi ini yang akhirnya dijadikan nickname untuk urusan dengan dunia Tech. ImotD , seorang Web Designer yang bercita-cita menjadi **Frontend Developer** 🙏 ~amin. Serial ini berawal dari mulainya mendaftarkan github pada Desember 2018. Doakan saya ya. [Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)
+# Hey,👋 I am **ImotD** 
+
+![brand-dottom](https://dottomuniverse.space/img/mask-logo.a3ad0f44.png)
+I love making things my dream is to become a frontend developer.[Wikipedia](https://en.wikipedia.org/wiki/Front-end_web_development)
+
