@@ -13,8 +13,8 @@
 | Cinemaxxi     | `50%`      | Website Informasi Film menggunakan API Omdapi | [Link](https://github.com/imotD/Indoxxi-imdb)       |
 | Corona Apocalypse     | `0%`      | Website Infrmasi Corona Berbasis Teror Ramalan | [Link](https://github.com/imotD/corona-apocalypse)       |
 | Sayuuur App    | `0%`      | Aplikasi Web Jual Beli Sayuran Segar | [Link](https://github.com/imotD/sayuuur-apps)       |
-| Masker Store    | `5%`      | Web e-commerce Penjualan Masker | [Link](https://github.com/imotD/MaskerStore)       |
+| Masker Store    | `15%`      | Web e-commerce Penjualan Masker | [Link](https://github.com/imotD/MaskerStore)       |
 | Holistay    | `2%`      | Website Travel | [Link](https://github.com/imotD/holistay)       |
-
+| Smart Shanum    | `0%`      | Aplikasi Kumpulan Lagu Anak | [Link](https://github.com/imotD/smart-shanum)       |
 
 
