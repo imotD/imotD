@@ -15,6 +15,5 @@
 | Sayuuur App    | `0%`      | Aplikasi Web Jual Beli Sayuran Segar | [Link](https://github.com/imotD/sayuuur-apps)       |
 | Masker Store    | `15%`      | Web e-commerce Penjualan Masker | [Link](https://github.com/imotD/MaskerStore)       |
 | Holistay    | `2%`      | Website Staycation | [Link](https://github.com/imotD/holistay)       |
-| Smart Shanum    | `0%`      | Aplikasi Kumpulan Lagu Anak | [Link](https://github.com/imotD/smart-shanum)       |
-
-
+| Smart Shanum    | `5%`      | Aplikasi Kumpulan Lagu Anak | [Link](https://github.com/imotD/smart-shanum)       |
+| HaiKak    | `0%`      | Aplikasi Tanya Obat dan Konsultasi - Apoteker | [Link](https://github.com/imotD/HaiKak-Apps)       |
