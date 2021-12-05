@@ -16,4 +16,4 @@
 | Masker Store    | `15%`      | Web e-commerce Penjualan Masker | [Link](https://github.com/imotD/MaskerStore)       |
 | Holistay    | `2%`      | Website Staycation | [Link](https://github.com/imotD/holistay)       |
 | Smart Shanum    | `5%`      | Aplikasi Kumpulan Lagu Anak | [Link](https://github.com/imotD/smart-shanum)       |
-| HaiKak    | `0%`      | Aplikasi Tanya Obat dan Konsultasi - Apoteker | [Link](https://github.com/imotD/HaiKak-Apps)       |
+| HaiKak    | `5%`      | Aplikasi Tanya Obat dan Konsultasi - Apoteker | [Link](https://github.com/imotD/HaiKak-Apps)       |
