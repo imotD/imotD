@@ -11,3 +11,4 @@
 | Holistay    | `2%`      | Website Staycation | [Link](https://github.com/imotD/holistay)       |
 | Smart Shanum    | `5%`      | Aplikasi Kumpulan Lagu Anak | [Link](https://github.com/imotD/smart-shanum)       |
 | HaiKak    | `50%`      | Aplikasi Tanya Obat dan Konsultasi - Apoteker | [Link](https://github.com/imotD/HaiKak-Apps)       |
+| Quasagram    | `5%`      | Clone Instagram | [Link](https://github.com/imotD/quasar-quasagram)       |
