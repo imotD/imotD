@@ -11,4 +11,4 @@
 | [Holistay](https://github.com/imotD/holistay)    | `2%`      | Website Staycation | React, Mern, Boostrap      |
 | [Smart Shanum](https://github.com/imotD/smart-shanum)    | `5%`      | Aplikasi Kumpulan Lagu Anak | Vue, Vuetify, Vuex       |
 | [HaiKak](https://github.com/imotD/HaiKak-Apps)    | `50%`      | Aplikasi Tanya Obat dan Konsultasi - Apoteker | React Native, Firebase, Redux      |
-| [Quasagram](https://github.com/imotD/quasar-quasagram)     | `5%`      | Clone Instagram | Quasar, Vue      |
+| [Quasagram](https://github.com/imotD/quasar-quasagram)     | `15%`      | Clone Instagram | Quasar, Vue      |
