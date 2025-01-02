@@ -1,18 +1,11 @@
 # Hey,👋 I am **Tommy** 
 
-As a Frontend Developer, I have been a professional in the industry for 3+ years in startup companies. Throughout my journey I have developed skills in HTML5, CSS3/SCSS, Vue.js, Vuex, React,Javascript.
+banner github.jpg
 
-It is my passion to create web projects. I hope I can help you with what you need!
+![Tommy FE](banner github.jpg)
 
+As a Frontend Developer with over 3 years of experience in startup environments, I have honed my expertise in HTML5, CSS3/SCSS, Vue.js (including Vuex), React.js, and JavaScript. 
 
-| Project      | Progress | Description      | Stack/Tools |
-| ----------- | ----------- | ----------- | ----------- |
-| [Git Master](https://github.com/imotD/git-master)      | ![](https://geps.dev/progress/50)      | Dokumentasi Belajar GIT | gitbook |
-| [Owlloka](https://gitlab.com/dottom/owlloka-travel)    | ![](https://geps.dev/progress/30)      | Website Travel | PHP, Boostrap|
-| [Corona Apocalypse](https://github.com/imotD/corona-apocalypse)    | ![](https://geps.dev/progress/10)     | Website Informasi Corona Berbasis Teror Ramalan | Vue,Nuxt,GSAP       |
-| [Sayuuur App ](https://github.com/imotD/sayuuur-apps)    | ![](https://geps.dev/progress/80)     | Website Jual Beli Sayuran Segar | Vue, Boostrap-Vue      |
-| [Masker Store ](https://github.com/imotD/MaskerStore)    | ![](https://geps.dev/progress/15)      | Web e-commerce Penjualan Masker | Vue, Boostrap-Vue|
-| [Holistay](https://github.com/imotD/holistay)    | ![](https://geps.dev/progress/10)     | Website Staycation | React, Mern, Boostrap      |
-| [Smart Shanum](https://github.com/imotD/smart-shanum)    | ![](https://geps.dev/progress/5)      | Aplikasi Kumpulan Lagu Anak | Vue, Vuetify, Vuex       |
-| [HaiKak](https://github.com/imotD/HaiKak-Apps)    | ![](https://geps.dev/progress/50)      | Aplikasi Tanya Obat dan Konsultasi - Apoteker | React Native, Firebase, Redux      |
-| [Quasagram](https://github.com/imotD/quasar-quasagram)     | ![](https://geps.dev/progress/25)      | Clone Instagram | Quasar, Vue      |
+I am passionate about crafting seamless and engaging web experiences that meet user needs and business goals.
+
+Let's connect to explore how I can contribute to your next web project!
